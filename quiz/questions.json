@@ -1,0 +1,7 @@
+[
+    {
+        "title" : "Apa hayo?",
+        "options" : ["ayam", "sapi", "kambing", "kuda"],
+        "correctOptionIndex" : "2"
+    }
+]
